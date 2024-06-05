@@ -6,7 +6,7 @@
     <title>مدرسة البرمجة 1337</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body backgroundcolor="red">
     <header>
         <div class="container">
             <h1>مدرسة البرمجة 1337</h1>
